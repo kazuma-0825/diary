@@ -31,7 +31,7 @@
                 ${param.content}
             </div>
             <div id="footer">
-                by Taro Kirameki.
+               ©kazuma.araki Ltd. All Rights Reserved.
             </div>
         </div>
     </body>
